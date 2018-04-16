@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
+
+I am a PhD student in Mechanical and Nuclear Engineering at Virginia Commonwealth University. This page will be the hub for my research and nuclear related activities.
+
+Check out my [LinkedIn](https://www.linkedin.com/in/michael-woods-3269b830/) page for more info!
 
 You can use the [editor on GitHub](https://github.com/mikeewoods/mikeewoods.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
